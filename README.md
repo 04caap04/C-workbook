@@ -16,6 +16,8 @@
 
 -If it is divisible by 400, it goes back to.
 
+3 numeros: Write a program that reads 5 user values and displays their sum and average;
+
 ## I used the program, Dev C++
 
 ### Hope you enjoy :)
