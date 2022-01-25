@@ -14,8 +14,6 @@
 
 -If it is divisible by 400, it goes back to.
 
-Something simple and easy to start with.
-
 ## I used the program, Dev C++
 
 ### Hope you enjoy :)
