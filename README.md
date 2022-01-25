@@ -18,6 +18,9 @@
 
 3-Numeros: Write a program that reads 5 user values and displays their sum and average;
 
+4-Multiplication table: Write a program that reads a number and prints its multiplication table, up to 10, on the screen.
+The program must repeat as long as the number entered by the user is different than zero.
+
 ## I used the program, Dev C++
 
 ### Hope you enjoy :)
