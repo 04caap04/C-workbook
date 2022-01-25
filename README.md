@@ -1,8 +1,10 @@
 # C-workbook
 
-I’m currently working on C++
+# Hi there 👋
 
-Exercises
+## I’m currently working on C++
+
+### Exercises
 
 1 Idade: Creating a program that will read your birthday years and calculate your age in years!
 
@@ -14,6 +16,6 @@ Exercises
 
 -If it is divisible by 400, it goes back to.
 
-I used the program, Dev C++
+## I used the program, Dev C++
 
-Hope you enjoy :)
+### Hope you enjoy :)
